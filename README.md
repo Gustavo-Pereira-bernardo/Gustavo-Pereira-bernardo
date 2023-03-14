@@ -13,6 +13,10 @@ Here are some ideas to get you started:
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img align="center" alt="html5" src=
+    
+    !["Nome" GitHub stats](https://github-readme-stats.vercel.app/api?username="nome"&show_icons=true&theme=highcontrast)
+<!-- "COMENTÁRIO -->"
+<!-- "COMENTÁRIO" -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
