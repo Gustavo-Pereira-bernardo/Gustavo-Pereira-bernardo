@@ -28,4 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![snake gif](https://github.com/Gustavo-Pereira-bernardo/Gustavo-Pereira-bernardo/blob/output/github-contribution-grid-snake.svg)
+
+<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsvetoslav88&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
+
 -->
